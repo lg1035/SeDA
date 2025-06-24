@@ -1,0 +1,582 @@
+personhasethnicity	person has ethnicity
+vegetableisproducedatcountry_inv	vegetable is produced at country (invert)
+colorofobject	color of object
+agriculturalproductcookedwithagriculturalproduct	agricultural product cooked with agricultural product
+criminalssuchascriminals_inv	criminals such as criminals (invert)
+agriculturalproductgrowninlandscapefeatures	agricultural product grown in landscape features
+cityoforganizationheadquarters_inv	city of organization headquarters (invert)
+emotionassociatedwithdisease_inv	emotion associated with disease (invert)
+personhasjobposition_inv	person has job position (invert)
+agentcontrols_inv	agent controls (invert)
+clothingtogowithclothing_inv	clothing to go with clothing (invert)
+cityliesonriver	city lies on river
+zipcodeinlocation	zipcode in location
+agriculturalproductincludingagriculturalproduct	agricultural product including agricultural product
+wineryatfarm_inv	winery at farm (invert)
+awardtrophytournamentisthechampionshipgameofthenationalsport_inv	award trophy tournament is the championship game of the national sport (invert)
+agentowns	agent owns
+professionssuchasprofessions_inv	professions such as professions (invert)
+citycontainsbuilding	city contains building
+geopoliticallocationcontainsstate_inv	geopolitical location contains state (invert)
+professionssuchasprofessions	professions such as professions
+hasspouse	has spouse
+agentcollaborateswithagent_inv	agent collaborates with agent (invert)
+architectssuchasarchitects_inv	architects such as architects (invert)
+teammember	team member
+conceptprerequisiteof	concept prerequisite of
+awardtrophytournamentisthechampionshipgameofthenationalsport	award trophy tournament is the championship game of the national sport
+objectlookslikeobject_inv	object looks like object (invert)
+chemicaltypehaschemical	chemical type has chemical
+stateorprovinceisborderedbystateorprovince	state or province is bordered by state or province
+visualartmovementartist_inv	visual art movement artist (invert)
+birdmayconsumeprotein	bird may consume protein
+aquariumssuchasaquariums_inv	aquariums such as aquariums (invert)
+languageofuniversity	language of university
+bodypartcontainsmuscle	body part contains muscle
+politicianuswenttoschool_inv	politician us went to school (invert)
+cityliesonriver_inv	city lies on river (invert)
+mlsoftwareauthor_inv	ml software author (invert)
+televisioncompanyaffiliate_inv	television company affiliate (invert)
+countrycontainsfarm_inv	country contains farm (invert)
+agenthaswebsite	agent has website
+hasspouse_inv	has spouse (invert)
+subpartof_inv	subpart of (invert)
+athleteplayedforschool_inv	athlete played for school (invert)
+objectpartofobject	object part of object
+bodypartwithinbodypart	body part within body part
+sportsteampositionathlete_inv	sports team position athlete (invert)
+plantrepresentemotion_inv	plant represent emotion (invert)
+arthropodsuchascrustacean_inv	arthropod such as crustacean (invert)
+awardtrophytournamentwasawardedonstadium	award trophy tournament was awarded on stadium
+weaponssuchasweapons_inv	weapons such as weapons (invert)
+persondiedinstateorprovince	person died in state or province
+inverseoftouristattraction	inverse of tourist attraction
+actorworkedwithdirector	actor worked with director
+organizationterminatedperson_inv	organization terminated person (invert)
+softwareisprogrammedinprogramminglanguage	software is programmed in programming language
+televisioncompanyaffiliate	television company affiliate
+politicianussponsoredpoliticsbill	politician us sponsored politics bill
+animalsuchasmollusk_inv	animals such as mollusk (invert)
+personborninlocation	person born in location
+aquariumssuchasaquariums	aquariums such as aquariums
+meetingeventtitleinofficebuildingroom_inv	meeting event title in office building room (invert)
+generalizationof	generalization of
+mlareaexpert	ml area expert
+invertebrateturnintoinsect_inv	invertebrate turn into insect (invert)
+publicationjournalist	publication journalist
+musicartistgenre	music artist genre
+personbornincountry_inv	person born in country (invert)
+invertebratehascolor	invertebrate has color
+religionssuchasreligions_inv	religions such as religions (invert)
+loseringame	loser in game
+emotionassociatedwithdisease	emotion associated with disease
+academicfieldconcernssubject_inv	academic field concerns subject (invert)
+stateorprovinceattainstrainstation	state or province attains train station
+sportsgamedate	sports game date
+cityattractions_inv	city attractions (invert)
+transportationincity	transportation in city
+hobbiessuchashobbies	hobbies such as hobbies
+musicsongisatrackofmusicalbum	music song is a track of music album
+bankchiefexecutiveceo_inv	bank chief executive ceo (invert)
+cityrestaurants	city restaurants
+leagueplayers	league players
+sportsgameloserscore	sports game loser score
+arthropodlookslikeinsect	arthropod looks like insect
+companyalsoknownas	company also known as
+agentworkedondrug_inv	agent worked on drug (invert)
+countryresidenceofperson	country residence of person
+issueofpoliticsgroup	issue of politics group
+actorcanbethesameasathlete	actor can be the same as athlete
+arachnidssuchasarachnids	arachnids such as arachnids
+athletealsoknownas_inv	athlete also known as (invert)
+agriculturalproductcontainchemical_inv	agricultural product contain chemical (invert)
+professionusestool	profession uses tool
+professionusestool_inv	profession uses tool (invert)
+officialwebsiteoforganization	official website of organization
+writecanbethesameasscientist_inv	writer can be the same as scientist (invert)
+arthropodlookslikeinsect_inv	arthropod looks like insect (invert)
+athletessuchasathletes	athletes such as athletes
+vehicletypehasvehicle_inv	vehicle type has vehicle (invert)
+motherofperson_inv	mother of person (invert)
+islandhasskiarea_inv	island has ski area (invert)
+geopoliticallocationcontainscountry	geopolitical location contains country
+inverseoftouristattraction_inv	inverse of tourist attraction (invert)
+plantgrowinginplant_inv	plant growing in plant (invert)
+objectfoundinscene_inv	object found in scene (invert)
+vegetablecanbeservedwithgrain_inv	vegetable can be served with grain (invert)
+televisionshowisbasedonmovie_inv	television show is based on movie (invert)
+astronautssuchasaustronauts	astronauts such as astronauts
+zipcodeinlocation_inv	zipcode in location (invert)
+furniturefoundinroom	furniture found in room
+hobbiessuchashobbies_inv	hobbies such as hobbies (invert)
+issueofpoliticsbill_inv	issue of politics bill (invert)
+personinacademicfield	person in academic field
+attractionmadeofbuildingmaterial_inv	attraction made of building material (invert)
+plantincludeplant_inv	plant include plant (invert)
+personbornincity	person born in city
+fishservedwithfood	fish served with food
+visualartmovementartist	visual art movement artist
+persondiedincountry	person died in country
+persongraduatedfromuniversity	person graduated from university
+videogamessuchasvideogames	video games such as video games
+agenthaswebsite_inv	agent has website (invert)
+athletefracturedbone_inv	athlete fractured bone (invert)
+mammalinducesemotion	mammal induces emotion
+clothmadeofplant_inv	cloth made of plant (invert)
+weaponssuchasweapons	weapons such as weapons
+writerwasbornincity	writer was born in city
+languagespokenatisland_inv	language spoken at island (invert)
+beveragecansoftendisease_inv	beverage can soften disease (invert)
+personborninlocation_inv	person born in location (invert)
+plantrepresentemotion	plant represent emotion
+countrylanguage	country language
+actorsuchasactor_inv	actors such as actor (invert)
+universityincity_inv	university in city (invert)
+languageschoolincity_inv	language school in city (invert)
+personhasethnicity_inv	person has ethnicity (invert)
+cityresidenceofperson	city residence of person
+personborninstateorprovince_inv	person born in state or province (invert)
+teamplaysagainstteam_inv	team plays against team (invert)
+televisionshowssuchastelevisionshows_inv	television shows such as television shows (invert)
+videogamessuchasvideogames_inv	video games such as video games (invert)
+musicsongisatrackofmusicalbum_inv	music song is a track of music album (invert)
+athletecoach	athlete coach
+ageofperson_inv	age of person (invert)
+hasofficeincity	has office in city
+stadiumoreventvenuedisclosescompany	stadium or event venue discloses company
+persondeathdate	person death date
+generalizationof_inv	generalization of (invert)
+leagueteams_inv	league teams (invert)
+skyscrapercontainsrestaurant_inv	skyscraper contains restaurant (invert)
+newpaperhaswebsite	newspaper has website
+organizationalsoknownas	organization also known as
+geopoliticallocationcontainscity	geopolitical location contains city
+agentcreated	agent created
+musicalartisthadapetanimal	musical artist had a pet animal
+streetincity	street in city
+athletessuchasathletes_inv	athletes such as athletes (invert)
+animalsuchasmollusk	animals such as mollusk
+mammalcanbeirritatedbyarthropod_inv	mammal can be irritated by arthropod (invert)
+agentcompeteswithagent	agent competes with agent
+architectssuchasarchitects	architects such as architects
+brotherof	brother of
+citynewspaper_inv	city newspaper (invert)
+drugexpectedreleasedate_inv	drug expected release date (invert)
+stadiumoreventvenuedisclosescompany_inv	stadium or event venue discloses company (invert)
+cityaquariums_inv	city aquariums (invert)
+mammalsuchasmammal	mammals such as mammal
+vegetableisproducedatcountry	vegetable is produced at country
+arteryarisesfromartery_inv	artery arises from artery (invert)
+sportsgamewinnerscore	sports game winner score
+itemfoundinroom_inv	item found in room (invert)
+ageofperson	age of person
+worker	worker
+universityledmusicfestival_inv	university led music festival (invert)
+companyhasshareholder_inv	company has shareholder (invert)
+teamalsoknownas_inv	team also known as (invert)
+persongraduatedfromuniversity_inv	person graduated from university (invert)
+magazinecontainspublication	magazine contains publication
+agentinvolvedwithitem_inv	agent involved with item (invert)
+agentactsinlocation_inv	agent acts in location (invert)
+cityparks	city parks
+countryalsoknownas	country also known as
+languageofuniversity_inv	language of university (invert)
+personhasjobposition	person has job position
+athletebeatathlete	athlete beat athlete
+amphibiansuchasamphibian_inv	amphibians such as amphibian (invert)
+actorworkedwithdirector_inv	actor worked with director (invert)
+automobilemakerchiefexecutiveceo	automobile maker chief executive ceo
+archaeasuchasarchaea_inv	archaea such as archaea (invert)
+productinstances	product instances
+sportsgamescore	sports game score
+countryisthehomeofsportsteam	country is the home of sports team
+persondiedincountry_inv	person died in country (invert)
+officebuildingroominbuilding_inv	office building room in building (invert)
+islandhasskiarea	island has ski area
+moviessuchasmovies_inv	movies such as movies (invert)
+diseasemaybecausedbydrug	disease may be caused by drug
+countrycities_inv	country cities (invert)
+motherofperson	mother of person
+organizationhasbuilding_inv	organization has building
+coachcanspeaklanguage	coach can speak language
+languagespokenatisland	language spoken at island
+personleadsorganization	person leads organization
+countrycities	country cities
+cityattractions	city attractions
+citymuseums	city museums
+awardtrophytournamentwasawardedonstadium_inv	award trophy tournament was awarded on stadium (invert)
+bacteriaisthecausativeagentofphysiologicalcondition_inv	bacteria is the causative agent of physiological condition (invert)
+companyhasshareholder	company has shareholder
+sportusesequipment_inv	sport uses equipment (invert)
+toolssuchastools_inv	tools such as tools (invert)
+mammaleatsinsect_inv	mammal eats insect (invert)
+citymuseums_inv	city museums (invert)
+plantincludeplant	plant include plant
+beveragecontainsprotein_inv	beverage contains protein (invert)
+directordirectedmovie_inv	director directed movie (invert)
+organizationhasperson_inv	organization has person (invert)
+cityhotels	city hotels
+bookwriter_inv	book writer (invert)
+chemicaltypehaschemical_inv	chemical type has chemical (invert)
+agentinvolvedwithitem	agent involved with item
+wineryatfarm	winery at farm
+persondiedinlocation_inv	person died in location (invert)
+cityzoos_inv	city zoos (invert)
+bodypartwithinbodypart_inv	body part within body part (invert)
+attractionmadeofbuildingmaterial	attraction made of building material
+clothingtogowithclothing	clothing to go with clothing
+countrylanguage_inv	country language (invert)
+issueofpoliticsgroup_inv	issue of politics group (invert)
+countryisthehomeofsportsteam_inv	country is the home of sports team (invert)
+visualartistartform	visual artist art form
+subfieldofacademicfield	subfield of academic field
+farmproducesagriculturalproduct_inv	farm produces agricultural product (invert)
+personspeakingatmeetingeventtitle	person speaking at meeting event title
+athleteplayedforschool	athlete played for school
+insecteatsgrain_inv	insect eats grain (invert)
+personspeakingatmeetingeventtitle_inv	person speaking at meeting event title (invert)
+mutualproxyfor	mutual proxy for
+agentactsinlocation	agent acts in location
+mountaininstate	mountain in state
+coachcanspeaklanguage_inv	coach can speak language (invert)
+diseasemaybecausedbydrug_inv	disease may be caused by drug (invert)
+moviestaractor	movie star actor
+coachstudiedatuniversity	coach studied at university
+economicsectorusingacademicfield	economic sector using academic field
+animaltypehasanimal	animal type has animal
+magazinecontainspublication_inv	magazine contains publication (invert)
+hasfamilymember_inv	has family member (invert)
+animaltypehasanimal_inv	animal type has animal (invert)
+academicprogramatuniversity	academic program at university
+religionusesplaceofworship_inv	religion uses place of worship (invert)
+stateorprovinceisborderedbystateorprovince_inv	state or province is bordered by state or province (invert)
+hasofficeincity_inv	has office in city (invert)
+bookwriter	book writer
+personattendsschool	person attends school
+teamalsoknownas	team also known as
+booksuchasbook_inv	books such as book (invert)
+writerwasbornincity_inv	writer was born in city (invert)
+languageofsportsgame_inv	language of sports game
+leagueplayers_inv	league players (invert)
+persondeathdate_inv	person death date (invert)
+buildingfeaturemadefrombuildingmaterial_inv	building feature made from building material (invert)
+drugexpectedreleasedate	drug expected release date
+statecontainsfarm	state contains farm
+agentcompeteswithagent_inv	agent competes with agent (invert)
+companyproducesvideogamesystem	company produces video game system
+politicianholdsoffice	politician holds office
+sportsgamescore_inv	sports game score (invert)
+religionusesplaceofworship	religion uses place of worship
+bacteriacancauseillnessfromfood	bacteria can cause illness from food
+mountaininstate_inv	mountain in state (invert)
+coachworksincountry	coach works in country
+coachstudiedatuniversity_inv	coach studied at university (invert)
+invertebrateturnintoinsect	invertebrate turn into insect
+musicfestivalssuchasmusicfestivals	music festivals such as music festivals
+dateofmeetingeventtitle_inv	date of meeting event title (invert)
+athletefracturedbone	athlete fractured bone
+objectfoundinscene	object found in scene
+televisionshowisbasedonmovie	television show is based on movie
+fishservedwithfood_inv	fish served with food (invert)
+shapeofobject	shape of object
+bankchiefexecutiveceo	bank chief executive ceo
+personbirthdate	person birth date
+countryproducesproduct_inv	country produces product (invert)
+streetincity_inv	street in city (invert)
+countryproducesproduct	country produces product
+professionactsatthesameareaofpoliticissue	profession acts at the same area of politic issue
+colorofobject_inv	color of object (invert)
+moviessuchasmovies	movies such as movies
+mammaleatsinsect	mammal eats insect
+animalpreyson	animal preys on
+teamwontrophy_inv	team won trophy (invert)
+booksuchasbook	books such as book
+persongraduatedschool_inv	person graduated school (invert)
+acquired_inv	acquired (invert)
+arachnidiseatenbybird	arachnid is eaten by bird
+bakegoodistypicalincountry	baked good is typical in country
+agentcontributedtocreativework	agent contributed to creative work
+officebuildingroominbuilding	office building room in building
+buildingfeaturebuiltabovelake_inv	building feature built above lake (invert)
+marriedinyear_inv	married in year (invert)
+istallerthan_inv	is taller than (invert)
+bacteriaisthecausativeagentofphysiologicalcondition	bacteria is the causative agent of physiological condition
+newpaperhaswebsite_inv	newspaper has website (invert)
+agriculturalproductcutintogeometricshape	agricultural product cut into geometric shape
+drughassideeffect	drug has side effect
+sporthassportsteamposition_inv	sport has sports team position (invert)
+grainusedtomakecandy_inv	grain used to make candy (invert)
+colorassociatedwithvisualizableattribute_inv	color associated with visualizable attribute (invert)
+musicalartisthadapetanimal_inv	musical artist had a pet animal (invert)
+dateevent	date event
+coachalsoknownas	coach also known as
+transportationincity_inv	transportation in city (invert)
+agentcreatedorganization	agent created organization
+criminalarrestedincountry	criminal arrested in country
+agentparticipatedinevent_inv	agent participated in event (invert)
+lakeinstate_inv	lake in state (invert)
+officialwebsiteoforganization_inv	official website of organization (invert)
+buildingfeaturebuiltabovelake	building feature built above lake
+academicprogramatuniversity_inv	academic program at university (invert)
+meetingeventtitlehasmeetingeventtype	meeting event title has meeting event type
+airportsuchasairport	airports such as airport
+professiontypehasprofession	profession type has profession
+personbornincountry	person born in country
+itemfoundinroom	item found in room
+publicationwritesabout_inv	publication writes about (invert)
+sportsgamedate_inv	sports game date (invert)
+vegetablecanbeservedwithgrain	vegetable can be served with grain
+actorcanbethesameasathlete_inv	actor can be the same as athlete (invert)
+grainusedtomakecandy	grain used to make candy
+proxyof_inv	proxy of (invert)
+religionofperson_inv	religion of person (invert)
+persondiedinstateorprovince_inv	person died in state or province (invert)
+teamwontrophy	team won trophy
+actorsuchasactor	actors such as actor
+arachnidssuchasarachnids_inv	arachnids such as arachnids (invert)
+sportsteampositionathlete	sports team position athlete
+statecontainsfarm_inv	state contains farm (invert)
+locatedat_inv	located at (invert)
+locatedat	located at
+countryresidenceofperson_inv	country residence of person (invert)
+airportsuchasairport_inv	airports such as airport (invert)
+economicsectorcompany	economic sector company
+bakedgoodservedwithbeverage	baked good served with beverage
+objectpartofobject_inv	object part of object (invert)
+statecontainscity_inv	state contains city (invert)
+furniturefoundinroom_inv	furniture found in room (invert)
+mammalcanbeirritatedbyarthropod	mammal can be irritated by arthropod
+cityparks_inv	city parks (invert)
+teamingame	team in game
+politicianuswenttoschool	politician us went to school
+currencycountry	currency country
+jobpositionusesacademicfield_inv	job position uses academic field (invert)
+arachnidiseatenbybird_inv	arachnid is eaten by bird (invert)
+meetingeventtitlehasmeetingeventtype_inv	meeting event title has meeting event type (invert)
+countryalsoknownas_inv	country also known as (invert)
+hotelbuiltatpark_inv	hotel built at park (invert)
+teamingame_inv	team in game (invert)
+agentcontributedtocreativework_inv	agent contributed to creative work (invert)
+personineconomicsector_inv	person in economic sector (invert)
+cityrestaurants_inv	city restaurants (invert)
+automobileenginesuchasautomobileengine_inv	automobile engine such as automobile engine (invert)
+animalpreyson_inv	animal preys on
+issueofpoliticsbill	issue of politics bill
+hotelwasbuiltatfarm_inv	hotel was built at farm (invert)
+sportsgameloserscore_inv	sports game loser score (invert)
+magazineisleadbyceo_inv	magazine is lead by ceo (invert)
+cityzoos	city zoos
+teammember_inv	team member (invert)
+skyscrapercontainsrestaurant	skyscraper contains restaurant
+moviestaractor_inv	movie star actor (invert)
+languageschoolincity	language school in city
+proxyof	proxy of
+musicartistgenre_inv	music artist genre (invert)
+riveremptiesintoriver	river empties into river
+professiontypehasprofession_inv	profession type has profession
+diseasecausesphysiologicalcondition	disease causes physiological condition
+organizationalsoknownas_inv	organization also known as (invert)
+drughassideeffect_inv	drug has side effect (invert)
+loseringame_inv	loser in game (invert)
+coachwontrophy	coach won trophy
+stateorprovinceresidenceofperson_inv	state or province residence of person (invert)
+arteriessuchasarteries_inv	arteries such as arteries (invert)
+personleadscity_inv	person leads city (invert)
+mlsoftwareauthor	ml software author
+mutualproxyfor_inv	mutual proxy for (invert)
+agriculturalproductcutintogeometricshape_inv	agricultural product cut into geometric shape (invert)
+organizationhasagent	organization has agent
+athletepublishesinblog_inv	athlete publishes in blog (invert)
+bacteriacancauseillnessfromfood_inv	bacteria can cause illness from food (invert)
+competeswith	competes with
+organizationhiredperson	organization hired person
+malemovedtostateorprovince	male moved to state or province
+religionssuchasreligions	religions such as religions
+statecontainscity	state contains city
+beveragecansoftendisease	beverage can soften disease
+buildingispartofuniversity_inv	building is part of university (invert)
+shoppingmallincity	shopping mall in city
+celebritysuchascelebrity_inv	celebrity such as celebrity (invert)
+ismultipleof_inv	is multiple of (invert)
+meetingeventtitleinbuilding	meeting event title in building
+athletecoach_inv	athlete coach (invert)
+athletebeatathlete_inv	athlete beat athlete (invert)
+writecanbethesameasscientist	writer can be the same as scientist
+animalssuchasmammals	animals such as mammals
+publicationwritesabout	publication writes about
+athletehomestadium_inv	athlete home stadium (invert)
+cityresidenceofperson_inv	city residence of person (invert)
+geopoliticallocationcontainsstate	geopolitical location contains state
+agentstudiesphysiologicalcondition_inv	agent studies physiological condition (invert)
+players_inv	players (invert)
+mammalinducesemotion_inv	mammal induces emotion (invert)
+personleadsorganization_inv	person leads organization (invert)
+mlareaexpert_inv	ml area expert (invert)
+vehicletypehasvehicle	vehicle type has vehicle
+teamplaysagainstteam	team plays against team
+archaeasuchasarchaea	archaea such as archaea
+subfieldofacademicfield_inv	subfield of academic field (invert)
+religionofperson	religion of person
+locationcontainslocation	location contains location
+teammate_inv	teammate (invert)
+personborninstateorprovince	person born in state or province
+agentcreatedorganization_inv	agent created organization (invert)
+organizationcreatedatdate	organization created at date
+criminalarrestedincountry_inv	criminal arrested in country (invert)
+buildingfeaturemadefrombuildingmaterial	building feature made from building material
+personinacademicfield_inv	person in academic field (invert)
+coachworksincountry_inv	coach works in country (invert)
+sisterof	sister of
+arteryarisesfromartery	artery arises from artery
+ismultipleof	is multiple of
+stateorprovinceattainstrainstation_inv	state or province attains train station (invert)
+hospitalincity	hospital in city
+visualartistartform_inv	visual artist art form (invert)
+televisionshowssuchastelevisionshows	television shows such as television shows
+organizationhasperson	organization has person
+invertebratehascolor_inv	invertebrate has color (invert)
+geopoliticallocationcontainscity_inv	geopolitical location contains city (invert)
+mountainatgeopoliticallocation	mountain at geopolitical location
+agentparticipatedinevent	agent participated in event
+bakedgoodservedwithbeverage_inv	baked good served with beverage (invert)
+synonymfor	synonym for
+agentworkedondrug	agent worked on drug
+citycontainsbuilding_inv	city contains building (invert)
+eventatlocation_inv	event at location (invert)
+buildingispartofuniversity	building is part of university
+clothmadeofplant	cloth made of plant
+universityincity	university in city
+wineryproduceswine_inv	winery produces wine (invert)
+athletealsoknownas	athlete also known as
+organizationhasagent_inv	organization has agent (invert)
+animaldevelopdisease	animal develop disease
+eventatlocation	event at location
+jobpositionusesacademicfield	job position uses academic field
+personbornincity_inv	person born in city (invert)
+geopoliticallocationcontainscountry_inv	geopolitical location contains country (invert)
+musicianplaysinstrument	musician plays instrument
+amphibiansuchasamphibian	amphibians such as amphibian
+languageofsportsgame	language of sports game
+animalssuchasmammals_inv	animals such as mammals (invert)
+plantgrowinginplant	plant growing in plant
+personleadscity	person leads city
+hotelwasbuiltatfarm	hotel was built at farm
+beveragecontainsprotein	beverage contains protein
+bodypartcontainsmuscle_inv	body part contains muscle (invert)
+publicationjournalist_inv	publication journalist (invert)
+shoppingmallincity_inv	shopping mall in city (invert)
+istallerthan	is taller than
+stateorprovinceresidenceofperson	state or province residence of person
+personattendsschool_inv	person attends school (invert)
+professionactsatthesameareaofpoliticissue_inv	profession acts at the same area of politic issue (invert)
+coachalsoknownas_inv	coach also known as (invert)
+directordirectedmovie	director directed movie
+husbandof_inv	husband of (invert)
+agentstudiesphysiologicalcondition	agent studies physiological condition
+persondiedincity	person died in city
+meatcomesfromanimal_inv	meat comes from animal (invert)
+conferencessuchasconferences	conferences such as conferences
+animaleatfood	animal eat food
+economicsectorusingacademicfield_inv	economic sector using academic field (invert)
+organizationhasbuilding	organization has building
+personbirthdate_inv	person birth date (invert)
+animaleatfood_inv	animal eat food (invert)
+diseasecausesphysiologicalcondition_inv	disease causes physiological condition (invert)
+economicsectorcompany_inv	economic sector company (invert)
+hasfamilymember	has family member
+productinstances_inv	product instances (invert)
+astronautwasonamissionwithastronaut	astronaut was on a mission with astronaut
+companyproducesvideogamesystem_inv	company produces video game system (invert)
+universityledmusicfestival	university led music festival
+animaldevelopdisease_inv	animal develop disease (invert)
+currencycountry_inv	currency country (invert)
+citylanguage	city language
+meatcomesfromanimal	meat comes from animal
+shapeofobject_inv	shape of object (invert)
+persondiedincity_inv	person died in city (invert)
+conferencessuchasconferences_inv	conferences such as conferences (invert)
+arthropodsuchascrustacean	arthropod such as crustacean
+meetingeventtitleinofficebuildingroom	meeting event title in office building room
+competeswith_inv	competes with (invert)
+marriedinyear	married in year
+athletehomestadium	athlete home stadium
+companyalsoknownas_inv	company also known as (invert)
+politicianholdsoffice_inv	politician holds office (invert)
+stadiumalsoknownas_inv	stadium also known as (invert)
+birdmayconsumeprotein_inv	bird may consume protein (invert)
+politicianussponsoredpoliticsbill_inv	politician us sponsored politics bill (invert)
+synonymfor_inv	synonym for (invert)
+arteriessuchasarteries	arteries such as arteries
+insectcanbeconfundedwitharthropod	insect can be confounded with arthropod
+hospitalincity_inv	hospital in city (invert)
+personineconomicsector	person in economic sector
+agriculturalproductgrowninlandscapefeatures_inv	agricultural product grown in landscape features (invert)
+hassibling	has sibling
+mountainatgeopoliticallocation_inv	mountain at geopolitical location (invert)
+criminalssuchascriminals	criminals such as criminals
+sportusesequipment	sport uses equipment
+cityaquariums	city aquariums
+citylanguage_inv	city language (invert)
+athletewinsawardtrophytournament	athlete wins award trophy tournament
+sporthassportsteamposition	sport has sports team position
+leagueteams	league teams
+organizationhiredperson_inv	organization hired person (invert)
+bakegoodistypicalincountry_inv	baked good is typical in country (invert)
+riveremptiesintoriver_inv	river empties into river (invert)
+astronautwasonamissionwithastronaut_inv	astronaut was on a mission with astronaut (invert)
+sisterof_inv	sister of (invert)
+academicfieldconcernssubject	academic field concerns subject
+organizationcreatedatdate_inv	organization created at date (invert)
+subpartoforganization	subpart of organization
+sportsgamewinnerscore_inv	sports game winner score (invert)
+softwareisprogrammedinprogramminglanguage_inv	software is programmed in programming language (invert)
+acquired	acquired
+colorassociatedwithvisualizableattribute	color associated with visualizable attribute
+subpartof	subpart of
+agentcreated_inv	agent created (invert)
+athletepublishesinblog	athlete publishes in blog
+objectlookslikeobject	object looks like object
+conceptprerequisiteof_inv	concept prerequisite of (invert)
+celebritysuchascelebrity	celebrity such as celebrity
+agriculturalproductincludingagriculturalproduct_inv	agricultural product including agricultural product (invert)
+farmproducesagriculturalproduct	farm produces agricultural product
+hotelbuiltatpark	hotel built at park
+automobileenginesuchasautomobileengine	automobile engine such as automobile engine
+insecteatsgrain	insect eats grain
+wineryproduceswine	winery produces wine
+citynewspaper	city newspaper
+worker_inv	worker (invert)
+subpartoforganization_inv	subpart of organization (invert)
+stadiumalsoknownas	stadium also known as
+persongraduatedschool	person graduated school
+coachwontrophy_inv	coach won trophy (invert)
+athletewinsawardtrophytournament_inv	athlete wins award trophy tournament (invert)
+malemovedtostateorprovince_inv	male moved to state or province (invert)
+agriculturalproductcontainchemical	agricultural product contain chemical
+cityhotels_inv	city hotels (invert)
+automobilemakerchiefexecutiveceo_inv	automobile maker chief executive ceo (invert)
+toolssuchastools	tools such as tools
+persondiedinlocation	person died in location
+meetingeventtitleinbuilding_inv	meeting event title in building (invert)
+agentcontrols	agent controls
+musicfestivalssuchasmusicfestivals_inv	music festivals such as music festivals (invert)
+astronautssuchasaustronauts_inv	astronauts such as astronauts (invert)
+locationcontainslocation_inv	location contains location (invert)
+agriculturalproductcookedwithagriculturalproduct_inv	agricultural product cooked with agricultural product (invert)
+brotherof_inv	brother of (invert)
+dateofmeetingeventtitle	date of meeting event title
+players	players
+mammalsuchasmammal_inv	mammals such as mammal (invert)
+hassibling_inv	has sibling (invert)
+husbandof	husband of
+insectcanbeconfundedwitharthropod_inv	insect can be confounded with arthropod (invert)
+cityoforganizationheadquarters	city of organization headquarters
+countrycontainsfarm	country contains farm
+lakeinstate	lake in state
+organizationterminatedperson	organization terminated person
+magazineisleadbyceo	magazine is lead by ceo
+dateevent_inv	date event (invert)
+agentowns_inv	agent owns (invert)
+agentcollaborateswithagent	agent collaborates with agent
+teammate	teammate
+musicianplaysinstrument_inv	musician plays instrument (invert)
