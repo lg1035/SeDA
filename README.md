@@ -14,9 +14,9 @@ This repository provides partial implementation of the *"A Semantic Driven Adapt
 - Seda ’s figure
 
 ### ❗ Not Yet Included:
-- Modules for relation encoding (Section 4.2)
+- Modules for relation encoding 
 - Semantic-driven negative sampling and contrastive learning (Sections 4.3 & 4.4)
-
+- Full training and evaluation pipeline
 
 ---
 
